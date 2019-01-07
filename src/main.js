@@ -1,7 +1,7 @@
 import Vue from "vue";
 import App from "./App.vue";
-import router from "../embed_testing_webpack/src/router";
-import store from "../embed_testing_webpack/src/store";
+import router from "./router";
+import store from "./store";
 
 Vue.config.productionTip = false;
 
