@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "npm run serve"
+    "start": "npm start"
   },
   "dependencies": {
     "vue": "^2.5.21",
@@ -46,5 +46,17 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "main js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VendolaSolutions/knack-embed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VendolaSolutions/knack-embed/issues"
+  },
+  "homepage": "https://github.com/VendolaSolutions/knack-embed#readme"
 }
